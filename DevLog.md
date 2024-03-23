@@ -8,7 +8,7 @@ Plan:
 Entry
 
 # Note to self
-*nothing to note for now I suppose*
+All DevLog changes done on "main" branch.
 
 ## 230324
 Finally starting with the website. At least I'm writing something in this doc. There are many things I have to do. For now the plan is to
