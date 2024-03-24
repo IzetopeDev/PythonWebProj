@@ -9,6 +9,7 @@ Entry
 
 ### Note to self
 All DevLog changes done on **"main" branch.**
+When experimenting with new stuff **_create a new branch_**!
 
 ## 240324
 Plans: 
