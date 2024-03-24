@@ -17,6 +17,9 @@ Plans:
 I don't have a lot of time today so that's about it
 ### 1000
 I started the django tutorial but am now figuring out how virtual environment works lol
+### 1030
+making a venv. Just realised I'm in the main branch oops
+
 
 ## 230324
 Finally starting with the website. At least I'm writing something in this doc. There are many things I have to do. For now the plan is to
