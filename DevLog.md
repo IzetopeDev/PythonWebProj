@@ -19,7 +19,10 @@ I don't have a lot of time today so that's about it
 I started the django tutorial but am now figuring out how virtual environment works lol
 ### 1030
 making a venv. Just realised I'm in the main branch oops
-
+### 1100
+Just merged everything into the stuff. 
+Turns out installing files into the active branch is a very unwise thing to do. Especially after making commits lol... 
+Next time whenever I am not sure what in the world I'm doing I'll do them in another branch. Though I'm not sure how that would work exactly. 
 
 ## 230324
 Finally starting with the website. At least I'm writing something in this doc. There are many things I have to do. For now the plan is to
