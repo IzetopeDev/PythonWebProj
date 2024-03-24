@@ -7,8 +7,16 @@ Plan:
 ###time
 Entry
 
-# Note to self
+### Note to self
 All DevLog changes done on **"main" branch.**
+
+## 240324
+Plans: 
+- Start learning django (or at least installing it)
+
+I don't have a lot of time today so that's about it
+### 1000
+I started the django tutorial but am now figuring out how virtual environment works lol
 
 ## 230324
 Finally starting with the website. At least I'm writing something in this doc. There are many things I have to do. For now the plan is to
