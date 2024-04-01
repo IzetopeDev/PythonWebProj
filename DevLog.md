@@ -11,6 +11,10 @@ Entry
 All DevLog changes done on **"main" branch.**
 When experimenting with new stuff **_create a new branch_**!
 
+## 040124
+### 1530
+I decided to add some stuff to the html and css because, where I am now, I cannot do much. Thus, I just decided that I should at the very least figure out something for the website. There are some ideas I have, which I've written as comments in the html. but to summarise the more important stuff here: I am now planning to do even bigger things. For example, I need to program a small website game (maybe even make it 2 player) and then have an adventure style game (which I have 0 idea what it should be based on. Not to forget, I haven't even started actually learning to do the backend of the site yet. Plus, I still need to refigure out some stuff about javascript. So yeah... I might be biting off more than I can chew here. I suppose the best option now is just to take things one step at a time. 
+
 ## 240324
 Plans: 
 - Start learning django (or at least installing it)
