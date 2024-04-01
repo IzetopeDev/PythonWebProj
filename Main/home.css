@@ -1,0 +1,11 @@
+.NavBar {
+border: solid;
+
+}	
+
+.Sections {
+border: solid;
+border-width: 1.25px;
+padding-left: 10px;
+padding-bottom: 5px;
+}
