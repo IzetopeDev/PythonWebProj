@@ -2,7 +2,9 @@
 <html>
 <head>    
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
 <title>Incon Home</title>
 <!--<link rel="icon" type="image/x-icon" href="">-->
 <link rel="stylesheet" href="home.css">
@@ -11,35 +13,36 @@
 <body>
     <div class="NavBar">
         <ul>
-	    <li><a href="">Home</a></li>
-	    <li><a href="">About</a></li>
-	    <li><a href="">Contact</a></li>
-	</ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">About</a></li>
+<li><a href="">Contact</a></li>
+        </ul>
     </div>
 
     <div class="Intro">
         <h1 id="introTitle">Welcome!</h1>
-        <h2>This is a website I made completely by myself!</h2>
+        <h2 id="siteDescription">This is a website I made completely by myself!</h2>
         <p>Here, you can (hopefully) find all the things that I have done.</p>
     </div>
 
     <div class="ChoosePath" id="choosePath">
-    	<h1>First a mini-game!</h1>
-	<p class="SideNotes">although I say it's a mini-game, it's really just some options for you to choose from</p>
-	<ul>
-	    <li class="GameButton" id="taileredTour">Give me a tour!</li>
-	    <li class="GameButton" id="">I want an actual mini-game!</li> <!--thinking of maybe making a web game from react-->
-	    <li class="GameButton" id="">What does this button do?</li> <!--could be a mini story adventure-->
-	    <li class="GameButton" id="continue">Nah, I'll stay in the home page.</li>
-	</ul>
+        <h1>First a mini-game!</h1>
+        <p class="SideNotes">although I say it's a mini-game, it's really just some options for you to choose from</p>
+        <ul>
+            <li class="GameButton" id="taileredTour">Give me a tour!</li>
+            <li class="GameButton" id="">I want an actual mini-game!</li> <!--thinking of maybe making a web game from react-->
+            <li class="GameButton" id="">What does this button do?</li> <!--could be a mini story adventure-->
+            <li class="GameButton" id="continue">Nah, I'll stay in the home page.</li>
+        </ul>
     </div>
 
+    <!--This should be added in thru django, not harcoded.-->
     <div class="Sections" id="pythonWebProject">
         <h1 class="SectionHeaders">Python Web Project</h1>
-	<p class="SideNotes">It's this site!</p>
-	<p class="SectionDescriptor">In pursuit of learning soft skills, such as coding, I decided to throw myself into the deep of things and attempt to create a website completely from scratch. Specifically, I hope to learn python and its role in web programming as well as relearn the beginnings of web programming (html, css and javascript).</p>
-	<!--put in images coupled with links here to summarise a breakdown of this site and also links to relevant stuff-->
-	<a class="UserReplies" href="">Tell me more leh!</a>
+        <p class="SideNotes">It's this site!</p>
+        <p class="SectionDescriptor">In pursuit of learning soft skills, such as coding, I decided to throw myself into the deep of things and attempt to create a website completely from scratch. Specifically, I hope to learn python and its role in web programming as well as relearn the beginnings of web programming (html, css and javascript).</p>
+        <!--put in images coupled with links here to summarise a breakdown of this site and also links to relevant stuff-->
+        <a class="UserReplies" href="">Tell me more leh!</a>
     </div>
 
     <footer><!--not sure if I need this--></footer>
