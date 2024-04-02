@@ -2,8 +2,10 @@
 Here will be where I write my thoughts and plans each time I open this document. 
 The latest entry will be at the top and everything else will be pushed to the bottom (only applies to new day entry).
 I will be following a format as follows:
+
 ##Date
 Plan:
+
 ###time
 Entry
 
@@ -11,7 +13,23 @@ Entry
 All DevLog changes done on **"main" branch.**
 When experimenting with new stuff **_create a new branch_**!
 
-## 040124
+## 020424
+plans:
+figure out RWD
+commit into new branch.
+
+### 0840
+so basically I'm planning for the intro section to fill up the whole screen, then I need to make 2 versions. One for com, one for phone. I'm not sure how the phone one should look like so I'll do computer first. I'm guessing that if I'm going to use this as portfolio, they will probably try on their com first. Then during the explanation section, I'll allude to the fact that it has RWD (not a very impressive feat, but still something i suppose). honestly, RWD is not totally needed. 
+
+### 1250
+I've been playing around with how to make my website more responsive first before actually adding designs and whatnot. 
+Anyway, I'm thinking of also changing the website to check for network connectivity, If it's poor, then just load everything, no animations (or minimal). 
+Otherwise, just do all the animations and what not. 
+This is assuming that playing the animations require good network 
+(the thought is that the end-user has to download all the media into a cache or smth then need to load it.)
+
+
+## 010424
 ### 1530
 I decided to add some stuff to the html and css because, where I am now, I cannot do much. Thus, I just decided that I should at the very least figure out something for the website. There are some ideas I have, which I've written as comments in the html. but to summarise the more important stuff here: I am now planning to do even bigger things. For example, I need to program a small website game (maybe even make it 2 player) and then have an adventure style game (which I have 0 idea what it should be based on. Not to forget, I haven't even started actually learning to do the backend of the site yet. Plus, I still need to refigure out some stuff about javascript. So yeah... I might be biting off more than I can chew here. I suppose the best option now is just to take things one step at a time. 
 
