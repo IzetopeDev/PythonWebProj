@@ -18,6 +18,11 @@ plans:
 figure out RWD
 commit into new branch.
 
+### 2140
+I was playing around with the animations. thought of this pretty cool thing. 
+Also I think, the last line will just suddenly pop out of nowhere just before the person scroll or when they are in the midst of scrolling.
+ 
+
 ### 0840
 so basically I'm planning for the intro section to fill up the whole screen, then I need to make 2 versions. One for com, one for phone. I'm not sure how the phone one should look like so I'll do computer first. I'm guessing that if I'm going to use this as portfolio, they will probably try on their com first. Then during the explanation section, I'll allude to the fact that it has RWD (not a very impressive feat, but still something i suppose). honestly, RWD is not totally needed. 
 
