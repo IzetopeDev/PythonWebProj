@@ -1,7 +1,30 @@
+/*This should be for computer screens. But I need figure out dimensions.*/
+ul {
+padding: 0px;
+margin: 0px;
+list-style: none;
+}
+	
 .NavBar {
+height: 40px;
 border: solid;
+}
 
-}	
+.NavBar li {
+display: inline-block;
+padding-right: 5vw;
+padding-left: 5vw;
+margin-top: 10px;
+border-right: solid;
+border-width: 1px;
+}
+
+.Intro {
+height: 87.5vh;
+border: solid;
+border-width: 1.25px;
+text-align: center;
+}
 
 .Sections {
 border: solid;
