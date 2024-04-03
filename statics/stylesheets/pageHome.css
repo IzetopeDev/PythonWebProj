@@ -1,0 +1,19 @@
+@import "animations.css";
+
+.Intro {
+    height: 87.5vh;
+    border-width: 1.25px;
+    border-style: solid;
+    text-align: center;
+}
+
+#siteDescription {
+    display: inline-flex;
+    /*border-style: solid;*/
+    overflow: hidden; 
+    white-space: nowrap; 
+    animation: typing 7.4s steps(46, end);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 18px;
+    letter-spacing: 0.14em;
+}
