@@ -27,17 +27,17 @@ ul {
 }
 
 @keyframes typing {
-    from { width: 0 }
-    to { width: 49.5vw }
+    0% {width: 0;}
+    27% { width: 0;}
+    100% { width: 49.5vw;}
 }
-
 
 #siteDescription {
     display: inline-flex;
     /*border-style: solid;*/
     overflow: hidden; 
     white-space: nowrap; 
-    animation: typing 5.4s steps(46, end);
+    animation: typing 7.4s steps(46, end);
     font-family: "JetBrains Mono", monospace;
     font-size: 18px;
     letter-spacing: 0.14em;
