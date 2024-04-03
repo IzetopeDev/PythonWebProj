@@ -13,6 +13,10 @@ Entry
 All DevLog changes done on **"main" branch.**
 When experimenting with new stuff **_create a new branch_**!
 
+## 030424
+Plans:
+just mess around more with css. At least get the Intro section looking pretty legit
+
 ## 020424
 plans:
 figure out RWD
