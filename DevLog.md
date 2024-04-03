@@ -17,6 +17,14 @@ When experimenting with new stuff **_create a new branch_**!
 Plans:
 just mess around more with css. At least get the Intro section looking pretty legit
 
+### 1340
+Trying to add the background that looks just right (but honestly I need to add more stuff to see how it works). 
+I noticed how the welcome text takes a while to load when entering. It should be fine cuz I'm planning to make animations on it, but... It concerns me
+thus I should make a loading screen. just another thing to consider. 
+I also need to read thru this doc again to see what I missed so far. 
+I'm thinking of making the "welcome" background turn from whatever colour to white from left to right. 
+That should be it for today I guess. 
+
 ## 020424
 plans:
 figure out RWD
