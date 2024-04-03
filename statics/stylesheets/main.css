@@ -1,4 +1,14 @@
 /*This should be for computer screens. But I need figure out dimensions.*/
+body {
+    background-color: rgb(23, 28, 36);
+    color: #ffffff;
+}
+
+a {
+    color:#ffffff;
+    text-decoration: none;
+}
+
 ul {
     padding: 0px;
     margin: 0px;
@@ -21,6 +31,7 @@ ul {
 
 .Sections {
     border: solid;
+    /*need to change to relative lengths*/
     border-width: 1.25px;
     padding-left: 10px;
     padding-bottom: 5px;
