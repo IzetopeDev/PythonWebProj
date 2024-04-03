@@ -28,7 +28,7 @@
 .Intro h2{
     overflow: hidden; 
     white-space: nowrap; 
-    animation: typing 6.5s steps(46, end);
+    animation: typingSiteDesc 6.5s steps(46, end);
     font: bold 1.13em "JetBrains Mono", monospace;
     letter-spacing: 0.14em;
 }
