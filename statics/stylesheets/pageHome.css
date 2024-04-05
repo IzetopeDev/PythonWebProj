@@ -10,11 +10,10 @@
 }
 
 .Intro h1{
-    font: bold 4.5em "Falling Sky", Helvetica;
+    font: bold 8vw "Falling Sky", Helvetica;
     margin-top: 20vh;
     margin-bottom: 2vh;
     padding: 0;
-    border: solid;
 }
 
 #siteDescription {
@@ -22,13 +21,13 @@
 }
 
 .Intro .spacer{
-    width: 30vw;
+    width: 28vw;
 }
 
 .Intro h2{
-    overflow: hidden; 
+    overflow: hidden;
     white-space: nowrap; 
     animation: typingSiteDesc 6.5s steps(46, end);
-    font: bold 1.13em "JetBrains Mono", monospace;
+    font: bold 1.65vw "JetBrains Mono", monospace;
     letter-spacing: 0.14em;
 }
