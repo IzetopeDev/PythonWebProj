@@ -13,6 +13,11 @@ Entry
 All DevLog changes done on **"main" branch.**
 When experimenting with new stuff **_create a new branch_**!
 
+## 070424
+### 1135
+So, after some thinking, I probably will be **using flask** for this particular project. Through it I plan to learn the basics. Then I'll **pick up sql** for databasing stuff. Up till now I"ve mostly just been hardcoding some of the permanent stuff like the intro page and nav bar into the html and css. I don't even know if that's what I should be doing, cuz idk what flask needs me to do in the front-end side of things. Hopefully nothing too much needs to change. I haven't even included a js beacuse I wasn't sure if it will interfere with the python code.
+
+
 ## 030424
 Plans:
 just mess around more with css. At least get the Intro section looking pretty legit
@@ -20,9 +25,9 @@ just mess around more with css. At least get the Intro section looking pretty le
 ### 1340
 Trying to add the background that looks just right (but honestly I need to add more stuff to see how it works). 
 I noticed how the welcome text takes a while to load when entering. It should be fine cuz I'm planning to make animations on it, but... It concerns me
-thus I should make a loading screen. just another thing to consider. 
+thus I **should make a loading screen**. just another thing to consider. 
 I also need to read thru this doc again to see what I missed so far. 
-I'm thinking of making the "welcome" background turn from whatever colour to white from left to right. 
+I'm thinking of making the **"welcome" background** turn from **whatever colour to white from left to right**. 
 That should be it for today I guess. 
 
 ## 020424
@@ -32,7 +37,7 @@ commit into new branch.
 
 ### 2140
 I was playing around with the animations. thought of this pretty cool thing. 
-Also I think, the last line will just suddenly pop out of nowhere just before the person scroll or when they are in the midst of scrolling.
+Also I think, the last line will just **suddenly pop out of nowhere** just before the person scroll or when they are in the **midst of scrolling**.
  
 
 ### 0840
@@ -40,7 +45,7 @@ so basically I'm planning for the intro section to fill up the whole screen, the
 
 ### 1250
 I've been playing around with how to make my website more responsive first before actually adding designs and whatnot. 
-Anyway, I'm thinking of also changing the website to check for network connectivity, If it's poor, then just load everything, no animations (or minimal). 
+Anyway, I'm thinking of also changing the website to check for network connectivity, **If it's poor, then just load everything, no animations (or minimal)**. 
 Otherwise, just do all the animations and what not. 
 This is assuming that playing the animations require good network 
 (the thought is that the end-user has to download all the media into a cache or smth then need to load it.)
@@ -48,7 +53,7 @@ This is assuming that playing the animations require good network
 
 ## 010424
 ### 1530
-I decided to add some stuff to the html and css because, where I am now, I cannot do much. Thus, I just decided that I should at the very least figure out something for the website. There are some ideas I have, which I've written as comments in the html. but to summarise the more important stuff here: I am now planning to do even bigger things. For example, I need to program a small website game (maybe even make it 2 player) and then have an adventure style game (which I have 0 idea what it should be based on. Not to forget, I haven't even started actually learning to do the backend of the site yet. Plus, I still need to refigure out some stuff about javascript. So yeah... I might be biting off more than I can chew here. I suppose the best option now is just to take things one step at a time. 
+I decided to add some stuff to the html and css because, where I am now, I cannot do much. Thus, I just decided that I should at the very least figure out something for the website. There are some ideas I have, which I've written as comments in the html. but to summarise the more important stuff here: I am now planning to do even bigger things. For example, I need to **program a small website game** (maybe even make it 2 player) and then have an **adventure style game** (which I have 0 idea what it should be based on). Not to forget, I haven't even started actually learning to do the backend of the site yet. Plus, I still need to refigure out some stuff about javascript. So yeah... I might be biting off more than I can chew here. I suppose the best option now is just to take things one step at a time. 
 
 ## 240324
 Plans: 
