@@ -1,5 +1,12 @@
-@keyframes typing {
+@keyframes typingSiteDesc {
     0% {width: 0;}
-    27% { width: 0;}
-    100% { width: 49.5vw;}
+    44% { width: 0;}
+    100% { width: 57.4vw;}
 }
+
+@keyframes introSideNoteAppear {
+    0% {display: none}
+    50% {display: none} /*subject to change*/
+    100% {display: block}
+}
+

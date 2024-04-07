@@ -1,0 +1,33 @@
+@import "animations.css";
+@import url('https://fonts.cdnfonts.com/css/falling-sky');
+@import url('https://fonts.cdnfonts.com/css/jetbrains-mono');
+
+.Intro {
+    height: 87.5vh;
+    border-width: 1.25px;
+    border-style: solid;
+    text-align: center;
+}
+
+.Intro h1{
+    font: bold 8vw "Falling Sky", Helvetica;
+    margin-top: 20vh;
+    margin-bottom: 2vh;
+    padding: 0;
+}
+
+#siteDescription {
+    display: flex;
+}
+
+.Intro .spacer{
+    width: 28vw;
+}
+
+.Intro h2{
+    overflow: hidden;
+    white-space: nowrap; 
+    animation: typingSiteDesc 6.5s steps(46, end);
+    font: bold 1.65vw "JetBrains Mono", monospace;
+    letter-spacing: 0.14em;
+}
