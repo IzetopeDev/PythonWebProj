@@ -11,8 +11,7 @@
 }
 
 @keyframes introBackgroundToWhite {
-    0% {background: linear-gradient(to right, rgb(23, 28, 36) 100%, white 0%);}
-    50% {background: linear-gradient(to right, rgb(23, 28, 36) 50%, white 50%);}
-    100% {background: linear-gradient(to right, rgb(23, 28, 36) 0%, white 100%);}
+    from {background-position: right;}
+    to {background-position: left;}
 }
 

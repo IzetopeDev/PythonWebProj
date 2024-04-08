@@ -18,8 +18,10 @@
 
 #introBgL-RAni{ 
     margin-top: 20vh;
-    border: solid;
-    animation: introBackgroundToWhite 5s;
+    background: linear-gradient(to left, rgb(23, 28, 36) 50%, white 50%) left;
+    background-size: 200%, 100%;    
+    animation: introBackgroundToWhite 2s;
+    color: rgb(23, 28, 36);
 }
 
 #siteDescription {
