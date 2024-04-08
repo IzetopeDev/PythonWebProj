@@ -20,7 +20,7 @@
     margin-top: 20vh;
     background: linear-gradient(to left, rgb(23, 28, 36) 50%, white 50%) left;
     background-size: 200%, 100%;    
-    animation: introBackgroundToWhite 2s;
+    animation: introBackgroundToWhite 2.5s ease-in-out;
     color: rgb(23, 28, 36);
 }
 
