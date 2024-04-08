@@ -13,6 +13,13 @@ Entry
 All DevLog changes done on **"main" branch.**
 When experimenting with new stuff **_create a new branch_**!
 
+## 080424
+### 1520
+I managed to get the sliding animation for the welcome to work. But I still need to **make a loading screen**. The font just doesn't load in time before the animation plays. It's going to be damn janky. :/ 
+Some isssues I'm currently facing is that I don't actually know what is considered as fully loaded versus paritally loaded. Or if I can even just check if certain fonts are loaded yet.
+If I can check only certain parts can just load those first it will be great. 
+It could also be that it was a mistake using obscure, but good looking, webfonts
+
 ## 070424
 ### 1135
 So, after some thinking, I probably will be **using flask** for this particular project. Through it I plan to learn the basics. Then I'll **pick up sql** for databasing stuff. Up till now I"ve mostly just been hardcoding some of the permanent stuff like the intro page and nav bar into the html and css. I don't even know if that's what I should be doing, cuz idk what flask needs me to do in the front-end side of things. Hopefully nothing too much needs to change. I haven't even included a js beacuse I wasn't sure if it will interfere with the python code.
