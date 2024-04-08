@@ -11,9 +11,15 @@
 
 .Intro h1{
     font: bold 8vw "Falling Sky", Helvetica;
-    margin-top: 20vh;
     margin-bottom: 2vh;
+    margin-top: 0; 
     padding: 0;
+}
+
+#introBgL-RAni{ 
+    margin-top: 20vh;
+    border: solid;
+    animation: introBackgroundToWhite 5s;
 }
 
 #siteDescription {
@@ -25,9 +31,10 @@
 }
 
 .Intro h2{
+    font: bold 1.65vw "JetBrains Mono", monospace;
+    letter-spacing: 0.14em;
     overflow: hidden;
     white-space: nowrap; 
     animation: typingSiteDesc 6.5s steps(46, end);
-    font: bold 1.65vw "JetBrains Mono", monospace;
-    letter-spacing: 0.14em;
 }
+

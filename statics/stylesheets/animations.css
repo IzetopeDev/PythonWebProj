@@ -5,8 +5,14 @@
 }
 
 @keyframes introSideNoteAppear {
-    0% {display: none}
-    50% {display: none} /*subject to change*/
+    0% {display: none} /*I don't think you can animate display*/
+    50% {display: none} 
     100% {display: block}
+}
+
+@keyframes introBackgroundToWhite {
+    0% {background: linear-gradient(to right, rgb(23, 28, 36) 100%, white 0%);}
+    50% {background: linear-gradient(to right, rgb(23, 28, 36) 50%, white 50%);}
+    100% {background: linear-gradient(to right, rgb(23, 28, 36) 0%, white 100%);}
 }
 
